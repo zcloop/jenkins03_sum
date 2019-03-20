@@ -1,0 +1,126 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1553070269962" stop="1553070270069">
+  <name>test_sum</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1553070269962" status="passed" stop="1553070269967">
+      <name>TestSum.test_sum[3-5]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070269969" status="passed" stop="1553070269971">
+      <name>TestSum.test_sum[2-7]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070269972" status="passed" stop="1553070269974">
+      <name>TestSum.test_sum[1-9]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070269975" status="passed" stop="1553070269977">
+      <name>TestSum.test_sum[10-1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070269978" status="passed" stop="1553070269980">
+      <name>TestSum.test_sum[9-3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070269981" status="passed" stop="1553070269983">
+      <name>TestSum.test_sum[8-5]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070269984" status="passed" stop="1553070270053">
+      <name>TestSum.test_sum[7-7]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070270055" status="passed" stop="1553070270059">
+      <name>TestSum.test_sum[6-9]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070270062" status="passed" stop="1553070270066">
+      <name>TestSum.test_sum[5-11]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1553070270067" status="passed" stop="1553070270069">
+      <name>TestSum.test_sum[3-15]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10908-MainThread"/>
+        <label name="host" value="DESKTOP-0BM5I6A"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
