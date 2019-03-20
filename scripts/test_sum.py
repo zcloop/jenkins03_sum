@@ -18,8 +18,6 @@ def get_data():
 class TestSum():
     @pytest.mark.parametrize("a,b",get_data())
     def test_sum(self,a,b):
-        a = 3
-        b = 5
         sum = a+b
         print(sum)
 
